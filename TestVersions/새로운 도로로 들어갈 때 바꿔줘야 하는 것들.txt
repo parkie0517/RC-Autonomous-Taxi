@@ -1,0 +1,19 @@
+        # Taxi sysetm related setup
+        taxi.setMode(2)
+        taxi.setState(1) # car state: stop state (0->0)
+        # Localization related setup
+        infoRY, infoRX, infoRD, infoRN = listRoads.getRealRoads(11)
+        infoRX = infoRX + int(road/2) # parking에서 도로 l로 나왔을 때 처음 x 좌표
+        taxi.setrmapYX(infoRY, infoRX)
+        taxi.setrcarYX(infoRY, infoRX)
+        
+        # 2D map related setup
+        infoVY, infoVX, infoVD, infoVN = listRoads.getVirtualRoads(11)
+        infoVX = infoVX + int(road2D/2) # parking에서 도로 l로 나왔을 때 처음 x 좌표 380, 225
+        taxi.setvmapYX(infoVY, infoVX)
+        taxi.setvcarYX(infoVY, infoVX)
+        taxi.setDirection(infoD)
+
+        taxi.setDistance(road/2) # Objective distance
+        taxi.setDT(0)
+        taxi.setRoad('L')
