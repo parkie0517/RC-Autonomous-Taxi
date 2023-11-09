@@ -1,11 +1,9 @@
-# Project Description
 RC Autonomous Taxi<br />
 We have developed a Remote Control Autonomous Taxi service called "R-Mutax".<br />
-Click the image below to watch our project video on YouTube!<br />
-[<img src="https://github.com/parkie0517/RC_Autonomous_Taxi/assets/80407632/de76931f-e1fd-4b89-a9be-659fa4197e6f">](https://youtu.be/aiNxWq8mXbM?si=vCtecf2290BB3nPE)
+Click the link below to watch our project video on YouTube!<br />
+https://youtu.be/aiNxWq8mXbM?si=di_AoXMuAUkHjSQA
 
 # Project Information
-![image](https://github.com/parkie0517/RC_Autonomous_Taxi/assets/80407632/ff6ea9de-425f-4b47-aae5-dade51bcf855)
 ![image](https://github.com/parkie0517/RC_Autonomous_Taxi/assets/80407632/cae40845-24c2-40cf-8d93-55a07a91cf01)
 ![image](https://github.com/parkie0517/RC_Autonomous_Taxi/assets/80407632/53c1b58f-0e9d-4629-93ce-d0b33e7c3dee)
 
