@@ -1,5 +1,5 @@
 # RC Autonomous Taxi
-We have developed a Remote Control Autonomous Taxi service called "R-Mutax".<br />
+We developed a Remote Control Autonomous Taxi service called "R-Mutax".<br />
 Click the link below to watch our project video on YouTube!<br />
 https://youtu.be/aiNxWq8mXbM?si=di_AoXMuAUkHjSQA  
 ![image](https://github.com/parkie0517/RC_Autonomous_Taxi/assets/80407632/14bde267-bada-44f1-b2f7-cb22bfcf16e1)  
